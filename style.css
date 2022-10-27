@@ -1,0 +1,52 @@
+ul
+{   background-image: url("fresh furniture.png");
+
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	text-align: right;
+
+}
+li
+{   color: grey;
+	text-decoration-line: none;
+	background-image: url("fresh furniture.png");
+	background-repeat: no-repeat;
+	background-position: 100% .4em;
+	padding-right: .6em;
+	display: inline;
+}
+	#container
+{
+	background: url("fresh furniture.png");
+	background-repeat: no-repeat;
+	background-size: 1360px 700px;
+}
+
+{
+ background: url("ikea.png");
+ padding: 0px;
+ margin: 0px;
+ width: 150px;
+ height: 50px;
+}
+.images
+{
+	display: inline-block;
+	float:left;
+	margin: 0px;
+	padding: 0px;
+}
+#content
+{
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+	top: 90px;
+	height: auto;
+	max-width:auto;
+	overflow-y: hidden;
+	overflow-x: auto;
+}
+ 
